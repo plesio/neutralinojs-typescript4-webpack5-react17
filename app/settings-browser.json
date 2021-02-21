@@ -1,5 +1,5 @@
 {
-    "appname" : "myapp",
-    "appport" : "8080",
-    "mode" : "browser"
+  "appname": "write_your_app_name",
+  "appport": "8080",
+  "mode": "browser"
 }

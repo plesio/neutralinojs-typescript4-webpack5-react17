@@ -16,6 +16,7 @@ Bundle source files / and run local
 $ npm install
 $ neu build
 $ neu run
+$ neu listen #// Execute with the live-reload
 ```
 
 Learn more about neu-cli from [docs](https://neutralino.js.org/docs/#/tools/cli)
