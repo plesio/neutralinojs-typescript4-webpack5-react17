@@ -6,6 +6,8 @@ To learn the tool, I raised the version of the plugin from the default and check
 
 将来的に使うかはさておいても、今は様子見.
 
+あと neu listen --auto-build を実行してもreact側がリロードされなかったので、こちらも完全なものではないかも？
+
 ## Get started
 
 Install [neu-cli](https://neutralino.js.org/docs/#/tools/cli)
