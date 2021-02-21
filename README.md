@@ -1,6 +1,6 @@
-# neutralinojs-typescript
+# neutralinojs-typescript4-webpack5-react17
 
-Typescript starter project for Neutralinojs
+To learn the tool, I raised the version of the plugin from the default and checked that it works. 
 
 ## Get started
 
