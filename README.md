@@ -13,6 +13,7 @@ $ npm i -g @neutralinojs/neu
 Bundle source files / and run local
 
 ```bash
+$ npm install
 $ neu build
 $ neu run
 ```
